@@ -1,7 +1,5 @@
 # 🎨 Move It 🎨
 
-# 🟢 **Palmeiras Store Web** 🟢
-
 <div align="center">
 <img src="" width="1000px" alt="Imagem do site" title="Imagem do site"/>
 </div>
