@@ -45,7 +45,7 @@ cd move-it-web
 4. **Start the project**
 
 ```
-comand
+npm start
 ```
 
 ---
