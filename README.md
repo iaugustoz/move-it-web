@@ -20,7 +20,7 @@ Description in development...
 
 ## 💻 **Technologies Used**
 
-- ***
+- **Angular** (v17.0.0)
 
 ## 📦 **Dependencies**
 
