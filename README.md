@@ -8,7 +8,7 @@
 
 Description in development...
 
-> **Note:** This repository only has Front-End code. To see the API that uses Front-End, access the repository [palmeiras-store-api](https://github.com/igoraugustobrz/palmeiras-store-api).
+> **Note:** This repository only has Front-End code. To see the API that uses Front-End, access the repository [move-it-api](https://github.com/iaugustoz/move-it-api).
 
 ---
 
@@ -20,7 +20,7 @@ Description in development...
 
 ## 💻 **Technologies Used**
 
-- ***
+- **Angular** (v17.0.0)
 
 ## 📦 **Dependencies**
 
